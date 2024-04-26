@@ -1,6 +1,16 @@
-## Generator
+# Generator
 
-# A Google Gemini AI FastAPI Service
+## Contents
+- [About](#A-Google-Gemini-AI-FastAPI-Service)
+- [Features](#features)
+- [Configuration](#configuration)
+- [Model Setup](#model-setup)
+- [Usage](#usage)
+- [Data processing](#data-processing)
+- [Response](#response)
+- [Disclaimer](#disclaimer)
+
+## A Google Gemini AI FastAPI Service
 
 This FastAPI service utilizes the Google's Gemini AI API to process input data and generate responses based on the provided text prompts.
 
